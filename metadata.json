@@ -1,0 +1,8 @@
+{
+  "name": "فلک‌نامه - مولد هوشمند گزارش چارت تولد آسترولوژی",
+  "description": "سامانه پردازش و تولید خودکار گزارش عمیق ۱۴ بخش چارت تولد بر اساس فایل HTML سایت Astro-Seek با فرمت ۳۵۰۰ الی ۴۰۰۰ کلمه‌ای و قالب فاخر فلک‌نامه",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
